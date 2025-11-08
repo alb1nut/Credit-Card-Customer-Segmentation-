@@ -30,4 +30,4 @@ The dataset contains 18 behavioral variables for each customer, including:
 ## How to Run
 1. Clone the repository:  
 ```bash
-git clone <[your-repo-link](https://github.com/alb1nut/Credit-Card-Customer-Segmentation-.git)>
+git clone https://github.com/alb1nut/Credit-Card-Customer-Segmentation-.git
